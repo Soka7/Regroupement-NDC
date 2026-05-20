@@ -1,12 +1,14 @@
-Labyrinthe                                          Amadeo
-Barre de vie, dgts, vitesse etc...                  Aaron
-Score                                               Aaron
-Zone de visibilite                                  Amadeo
-Coffres avec boosts                                 Aaron
+Labyrinthe                                                  Amadeo
+Zone de visibilite                                          Amadeo
+Boosts -> + dgts + velocite balles + vitesse personnage     Amadeo
+Attaque                                                     Amadeo
+Direction attaque Main User                                 Amadeo
+
+Barre de vie, dgts, vitesse etc...                          Aaron
+Score                                                       Aaron
+Coffres avec boosts                                         Aaron
+Sound effects                                               Aaron
+
 Ennemies qui tirent avec mouvements aleatoires apres collision avec un mur      Leo
 Differents ennemies                                                             Leo
-Boosts -> + dgts + velocite balles + vitesse personnage                         Amadeo
 Musique                                                                         Leo
-Sound effects                                                                   Aaron
-Attaque                                                                         Amadeo
-Direction attaque Main User                                                     Amadeo
